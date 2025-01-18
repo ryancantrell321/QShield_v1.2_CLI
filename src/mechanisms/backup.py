@@ -2,7 +2,7 @@ import os
 import shutil
 import zipfile
 from src.mechanisms.logger import log_message
-from colorama import init, Fore, Style
+from colorama import init, Fore
 from datetime import datetime as dt
 from src.mechanisms.progress_bar import display_progress_bar
 from src.mechanisms.any_key import any_key_to_continue
@@ -11,6 +11,7 @@ from src.mechanisms.any_key import any_key_to_continue
 def backup():
 
     try:
+        print("Backup Mode Selected!")
         print("Selected folder to backup: %localappdata%/qBittorrent")
         print("Selected folder to backup: %appdata%/qBittorrent")
         print()

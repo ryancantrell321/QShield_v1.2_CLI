@@ -106,10 +106,10 @@ name where you saved the .zip file earlier, and press Enter!</p>
 <h2>📷 Screenshots and Usage Video</h2>
 
 <div style="text-align: center;">
-<a href="https://ibb.co.com/ZTJCKdw"><img src="https://i.ibb.co.com/f0S7tMK/Picture1.png" alt="Picture1" border="0"></a>
-<a href="https://ibb.co.com/zrL0B3m"><img src="https://i.ibb.co.com/ZVwkFQf/Picture2.png" alt="Picture2" border="0"></a>
-<a href="https://ibb.co.com/SvS3cZs"><img src="https://i.ibb.co.com/6sQW8qn/Picture3.png" alt="Picture3" border="0"></a>
-<a href="https://ibb.co.com/Y8XT2W8"><img src="https://i.ibb.co.com/vmhv1Bm/Picture4.png" alt="Picture4" border="0"></a>
+<img src="https://i.ibb.co.com/f0S7tMK/Picture1.png" alt="Picture1" border="0">
+<img src="https://i.ibb.co.com/ZVwkFQf/Picture2.png" alt="Picture2" border="0">
+<img src="https://i.ibb.co.com/6sQW8qn/Picture3.png" alt="Picture3" border="0">
+<img src="https://i.ibb.co.com/vmhv1Bm/Picture4.png" alt="Picture4" border="0">
 </div>
 
 <div style="text-align: center;">

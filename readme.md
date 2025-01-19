@@ -86,7 +86,7 @@
 <h2>💻 Usage</h2>
 
 <p style="text-align: justify; font-size: 20px; color: darkred"><strong>FOR BOTH BACKUP MODE AND RESTORE MODE, PATH STRINGS
-SHOULD BE ENTERED WITHOUT QUOTATION MARKS! IT CAN CONTAIN UNDERSCORES BUT NOT SPACES OR MINUS SIGNS</strong></p>
+SHOULD BE ENTERED WITHOUT QUOTATION MARKS! IT CAN CONTAIN UNDERSCORES BUT NOT SPACES OR MINUS SIGNS. BEFORE RESTORING, MAKE SURE YOUR DISK DIRECTORIES ARE ON THE SAME PATH WHEN YOU BACKED UP THE DATA!</strong></p>
 
 <p style="text-align: justify; font-size: 16px;">
     For backup, the software retrieves data from "%localappdata%/qBittorrent" and
@@ -95,7 +95,7 @@ backup to (THIS PATH MUST EXIST AND MUST NOT CONTAIN ANY SPACES OR MINUS
 SIGNS BUT CAN CONTAIN UNDERSCORES), the backup will proceed.
 
 <p style="text-align: justify; font-size: 16px;">For restoration purposes, this tool is designed to automatically extract data from the .zip file
-it previously generated and put it back in the aforementioned folders. MAKE SURE
+it previously generated when you press 2 and put it back in the aforementioned folders after you specify the file path and name. MAKE SURE
 QBITTORRENT IS OFF COMPLETELY BEFORE RESTORING!</p>
 
 <p style="text-align: justify; font-size: 16px;">All you need to do is to run the program as an administrator, specify the location and the file

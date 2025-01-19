@@ -118,10 +118,13 @@ Pandora QShield is licensed under the [GNU General Public License (GPL) v3.0](ht
 ---
 
 ## 💿 Virus Scan Results
-| File Name | Virus Scan Link                                                                 |
-|----------|---------------------------------------------------------------------------------|
-|          | [Scan Result](https://virusscan.jotti.org/en-US/filescanjob/7sehuf5uhf)         |
-|          | [Scan Result](https://virusscan.jotti.org/en-US/filescanjob/quwkgxe18f)         |
+
+#### Avast! and its affiliates might produce false positives! 
+
+| File Name        | Virus Scan Link         |
+|------------------|-------------------------|
+| qShield_v1.2.zip | [Scan Result](https://virusscan.jotti.org/en-US/filescanjob/jqk8wp2jer) |
+| qShield_v1.2.exe | [Scan Result](https://virusscan.jotti.org/en-US/filescanjob/b6nifv86j2)         |
 
 ---
 

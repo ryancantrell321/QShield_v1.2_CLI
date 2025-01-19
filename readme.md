@@ -30,7 +30,7 @@
 
 <h2>About</h2>
 <p style="text-align: justify; font-size: 16px;">
-    Welcome to <strong>Pandora QShield</strong> – a user-friendly backup and restore solution designed to keep your qBittorrent settings secure!
+    Welcome to <strong>Pandora QShield CLI</strong> – a user-friendly backup and restore solution designed to keep your qBittorrent settings secure!
     With Pandora QShield, you can safely backup and restore your application settings with just a few clicks, ensuring that your preferences and configurations 
     are preserved no matter what; reinstalling Windows, migrating Windows versions, or reinstalling the qBittorrent software from scratch!
 </p>
@@ -85,31 +85,40 @@
 
 <h2>💻 Usage</h2>
 
-<p style="text-align: justify; font-size: 20px; color: darkred"><strong>FOR BOTH BACKUP MODE AND RESTORE MODE, PATH STRINGS
-SHOULD BE ENTERED WITHOUT QUOTATION MARKS! IT CAN CONTAIN UNDERSCORES BUT NOT SPACES OR MINUS SIGNS. BEFORE RESTORING, MAKE SURE YOUR DISK DIRECTORIES ARE ON THE SAME PATH WHEN YOU BACKED UP THE DATA!</strong></p>
+<p><strong>For both Backup Mode and Restore Mode, path strings must be entered without quotation marks.</strong> They can include underscores but must not contain spaces or hyphens. Before restoring, ensure that your disk directories remain in the same location as when the data was backed up.</p>
 
-<p style="text-align: justify; font-size: 16px;">
-    For backup, the software retrieves data from "%localappdata%/qBittorrent" and
-"%appdata%/qBittorrent" when you press 1. After you specify a location path to save the
-backup to (THIS PATH MUST EXIST AND MUST NOT CONTAIN ANY SPACES OR MINUS
-SIGNS BUT CAN CONTAIN UNDERSCORES), the backup will proceed.
+<p>You will be presented with 6 options. You need to choose accordingly.</p>
 
-<p style="text-align: justify; font-size: 16px;">For restoration purposes, this tool is designed to automatically extract data from the .zip file
-it previously generated when you press 2 and put it back in the aforementioned folders after you specify the file path and name. MAKE SURE
-QBITTORRENT IS OFF COMPLETELY BEFORE RESTORING!</p>
+<h3>Backup Instructions</h3>
+<p>When you press <strong>1</strong> for backup, the software retrieves data from the following directories:</p>
+<ul>
+<li><code>%localappdata%\qBittorrent</code></li>
+<li><code>%appdata%\qBittorrent</code></li>
+</ul>
+<p>You will then be prompted to specify a location to save the backup. This location must already exist and cannot include spaces or hyphens but can contain underscores. Once the path is provided, the backup process will proceed.</p>
 
-<p style="text-align: justify; font-size: 16px;">All you need to do is to run the program as an administrator, specify the location and the file
-name where you saved the .zip file earlier, and press Enter!</p>
+<h3>Restore Instructions</h3>
+<p>For restoration, press <strong>2</strong> to initiate the process. The tool will automatically extract data from the <code>.zip</code> file it previously created and restore it to the original directories. You must specify the file path and name of the <code>.zip</code> file.</p>
 
-<p style="text-align: justify; font-size: 16px;">If you attempt to execute the backup or recovery procedure without granting administrative privileges to Pandora QShield Software, the program will not work</p>
-    
+<div class="important">
+<strong>Important:</strong> Ensure that qBittorrent is completely closed before attempting to restore data.
+</div>
+
+<h3>General Guidelines</h3>
+<ul>
+<li>Run the program as an administrator.</li>
+<li>For restoration, specify the location and file name of the previously saved <code>.zip</code> file and press Enter.</li>
+<li>If you attempt to perform a backup or restore without administrative privileges, Pandora QShield Software will not function properly.</li>
+</ul>
+
+
 <h2>📷 Screenshots and Usage Video</h2>
 
 <div style="text-align: center;">
-<img src="https://i.ibb.co.com/f0S7tMK/Picture1.png" alt="Picture1" border="0">
-<img src="https://i.ibb.co.com/ZVwkFQf/Picture2.png" alt="Picture2" border="0">
-<img src="https://i.ibb.co.com/6sQW8qn/Picture3.png" alt="Picture3" border="0">
-<img src="https://i.ibb.co.com/vmhv1Bm/Picture4.png" alt="Picture4" border="0">
+<img src="https://i.ibb.co.com/BLchYdC/Picture1.png" alt="Picture1" border="0">
+<img src="https://i.ibb.co.com/SmK2HfP/Picture2.png" alt="Picture2" border="0">
+<img src="https://i.ibb.co.com/xh7Ht7Q/Picture3.png" alt="Picture3" border="0">
+<img src="https://i.ibb.co.com/YNsch2T/Picture4.png" alt="Picture4" border="0">
 </div>
 
 <div style="text-align: center;">

@@ -17,7 +17,7 @@ from src.mechanisms.logger import log_message
 from src.mechanisms.view_logs import open_logs
 from src.mechanisms.backup import backup
 from src.mechanisms.restore import restore
-from src.mechanisms.usage import usage
+from src.mechanisms.usage import usage, support
 from colorama  import Fore, Style
 
 log_message("INFO", "QShield is starting...")
@@ -25,30 +25,28 @@ start_cleaner()
 
 while True:
     try:
-        print()
         display()
-        print()
 
         while True:
-            print(Fore.YELLOW + justify_text(t4, terminal_width))
-            print(Style.RESET_ALL)
-
-
-            choice = int(input("Enter your choice (1-5): "))
+            print(t4)
             print()
+
+            choice = int(input("Enter your choice (1-6): "))
+            print()
+
             if choice == 1:
-                log_message("INFO", "Backup function selected")
+                log_message("INFO", "Backup mode selected")
                 backup()
                 continue
 
             elif choice == 2:
-                log_message("INFO", "Restore function selected")
+                log_message("INFO", "Restore mode selected")
                 restore()
                 continue
 
             elif choice == 3:
                 log_message("INFO", "Opening Usage Guide")
-                usage()
+                usage("usage.pdf")
                 continue
 
             elif choice == 4:
@@ -57,6 +55,10 @@ while True:
                 continue
 
             elif choice == 5:
+                support()
+                continue
+
+            elif choice == 6:
                 log_message("INFO", "Exiting QShield")
                 print("Exiting QShield...\n")
                 sys.exit(0)

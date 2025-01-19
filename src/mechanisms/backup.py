@@ -15,7 +15,7 @@ def backup():
         print("Selected folder to backup: %localappdata%/qBittorrent")
         print("Selected folder to backup: %appdata%/qBittorrent")
         print()
-        save_path = input("Enter the path to save the backup file: ")
+        save_path = input("Enter the path to save the backup file: ").strip()
 
         init(autoreset=True)
 

@@ -9,7 +9,7 @@ from src.mechanisms.any_key import any_key_to_continue
 def restore():
 
     try:
-        print("Restore Mode Selected")
+        print("Restore Mode Selected!")
         print("Source folders to restore to: %localappdata%/qBittorrent and %appdata%/qBittorrent")
         print()
 

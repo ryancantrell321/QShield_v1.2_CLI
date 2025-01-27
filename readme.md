@@ -52,7 +52,7 @@ We plan to address this bug in a future update.
 ---
 
 ## 📚 How to Install Python (For Method 1):
-### Install Python 3.12
+### Install Python version 3.11.11, 3.12.8 or 3.13.1:
 - Download from [python.org/downloads/windows](https://www.python.org/downloads/windows/)
 - During installation, check "Add python.exe to PATH" 
 

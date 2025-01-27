@@ -7,9 +7,7 @@
 #### © RyanCantrell321, Pandora Dynamics  
 #### License: [GNU General Public License (GPL) v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
 
-![Python 3.12](https://img.shields.io/badge/python-3.12-darkgreen)  
-![GPL v3.0](https://img.shields.io/badge/GPL-v3.0-orangered)  
-![GitHub Downloads](https://img.shields.io/github/downloads/ryancantrell321/QShield_v1.2_CLI/total)
+![Python 3.12](https://img.shields.io/badge/python-3.12-darkgreen)  ![GPL v3.0](https://img.shields.io/badge/GPL-v3.0-orangered) ![GitHub Downloads](https://img.shields.io/github/downloads/ryancantrell321/QShield_v1.2_CLI/total)
 
 ---
 
@@ -53,12 +51,48 @@ We plan to address this bug in a future update.
 
 ---
 
-## 📚 How to Install
+## 📚 How to Install Python (For Method 1):
+### Install Python 3.12
+- Download from [python.org/downloads/windows](https://www.python.org/downloads/windows/)
+- During installation, check "Add python.exe to PATH" 
+
+---
+
+## 📚 How to Run (3 Methods: The choice is yours)
+
+### Method 1: Using python, directly from the source
+**QShield is portable. No installation needed. Follow these steps:**
+1. Download `qShield_v1.2(source).zip`.
+2. Extract the downloaded `.zip` file.
+3. Open the folder named `qShield_v1.2`.
+4. Open `Windows Powershell/Windows Terminal/CMD` as `admin`
+5. `cd` into the directory you extracted the folder to. Example: `cd D:\Backups\qShield_v1.2`
+6. Type in the following `python main.py` and press `Enter`
+7. Enjoy.
+
+#### Note: If you are not interested in such heavy technicalities, please check Method 2 and 3
+
+
+### Video Tutorial (Method 1)
+[![Watch Video](https://i.ibb.co.com/BLchYdC/Picture1.png)](https://www.youtube.com/watch?v=mZEZTqEct68)
+
+
+---
+
+### Method 2: Using .exe
 **QShield is portable. No installation needed. Follow these steps:**
 1. Download `qShield_v1.2.zip`.
 2. Extract the downloaded `.zip` file.
 3. Open the folder named `qShield_v1.2`.
 4. Double-click `qShield_v1.2.exe` and grant admin privileges.
+
+### Video Tutorial (Method 2)
+[![Watch Video](https://i.ibb.co.com/BLchYdC/Picture1.png)](https://www.youtube.com/watch?v=mZEZTqEct68)
+
+
+---
+### Method 3: Using GUI [Full of User Interface Bugs]
+Visit GitHub repository for the GUI version to learn more: [ryancantrell321/Pandora_QShield](https://github.com/ryancantrell321/Pandora_QShield)
 
 ---
 
@@ -93,9 +127,6 @@ We plan to address this bug in a future update.
 ![Screenshot 2](https://i.ibb.co.com/SmK2HfP/Picture2.png)  
 ![Screenshot 3](https://i.ibb.co.com/xh7Ht7Q/Picture3.png)  
 ![Screenshot 4](https://i.ibb.co.com/YNsch2T/Picture4.png)
-
-### Video Tutorial
-[![Watch Video](https://i.ibb.co.com/BLchYdC/Picture1.png)](https://www.youtube.com/watch?v=mZEZTqEct68)
 
 ---
 

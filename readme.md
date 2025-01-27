@@ -67,8 +67,9 @@ We plan to address this bug in a future update.
 3. Open the folder named `qShield_v1.2`.
 4. Open `Windows Powershell/Windows Terminal/CMD` as `admin`
 5. `cd` into the directory you extracted the folder to. Example: `cd D:\Backups\qShield_v1.2`
-6. Type in the following `python main.py` and press `Enter`
-7. Enjoy.
+6. Type in the following `pip install -r requirements.txt` and press `Enter`
+7. Type in the following `python main.py` and press `Enter`
+8. Enjoy.
 
 #### Note: If you are not interested in such heavy technicalities, please check Method 2 and 3
 

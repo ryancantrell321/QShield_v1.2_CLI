@@ -23,7 +23,7 @@ Welcome to **Pandora QShield CLI** – a user-friendly backup and restore soluti
 ---
 
 ## 🎯 Key Features
-- **Portability:** No installation required. Just launch `qShield_v1.2.exe` with admin privileges.
+- **Portability:** No installation required.
 - **Secure Backup & Restore:** Easily save and restore qBittorrent settings to a location of your choice.
 - **Performance Optimization:** Multi-instance defense mechanism and memory efficiency algorithm.
 - **Precise Event Logs:** Includes a logging system to record all actions for easy debugging.

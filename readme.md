@@ -75,7 +75,7 @@ We plan to address this bug in a future update.
 
 
 ### Video Tutorial (Method 1)
-[![Watch Video](https://i.ibb.co.com/BLchYdC/Picture1.png)](https://www.youtube.com/watch?v=mZEZTqEct68)
+[![Watch Video](https://i.ibb.co.com/BLchYdC/Picture1.png)](https://www.youtube.com/watch?v=2uUTD5A8nco)
 
 
 ---
@@ -153,10 +153,12 @@ Pandora QShield is licensed under the [GNU General Public License (GPL) v3.0](ht
 
 #### Avast! and its affiliates might produce false positives! 
 
-| File Name        | Virus Scan Link         |
-|------------------|-------------------------|
+| File Name | Virus Scan Link                                                         |
+|--|-------------------------------------------------------------------------|
+| qShield_v1.2(source).zip | [Scan Result](https://virusscan.jotti.org/en-US/filescanjob/64ynbd5t6y)                                                         |
 | qShield_v1.2.zip | [Scan Result](https://virusscan.jotti.org/en-US/filescanjob/jqk8wp2jer) |
-| qShield_v1.2.exe | [Scan Result](https://virusscan.jotti.org/en-US/filescanjob/b6nifv86j2)         |
+| qShield_v1.2.exe | [Scan Result](https://virusscan.jotti.org/en-US/filescanjob/b6nifv86j2) |
+
 
 ---
 

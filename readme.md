@@ -1,3 +1,6 @@
+# THIS REPOSITORY IS NO LONGER MAINTAINED. CHECK OUR UPDATED VERSION AT: https://github.com/ryancantrell321/Pandora_QShield
+
+
 # Pandora QShield
 
 ![Logo](https://i.ibb.co.com/VYr8X9p/Logo.png)
